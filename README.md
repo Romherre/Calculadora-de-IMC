@@ -19,8 +19,8 @@ Puedes ver y probar la calculadora de IMC en vivo en el siguiente enlace:
 [Calculadora de IMC en vivo](https://romherre.github.io/Calculadora-de-IMC/)
 
 ## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactar a [Romina Herrera](https://www.linkedin.com/in/romina-herreramicv/).
+[Romina Herrera](https://www.linkedin.com/in/romina-herreramicv/).
+romina-herrera@hotmail.com
 
 ---
 
